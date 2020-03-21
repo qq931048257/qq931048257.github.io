@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-04T14:14:36.094Z</updated>
+  <updated>2020-03-21T07:45:30.115Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,26 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>QuanZai</title>
-    <link href="http://yoursite.com/2020/02/04/quanzai/"/>
-    <id>http://yoursite.com/2020/02/04/quanzai/</id>
-    <published>2020-02-04T14:14:36.000Z</published>
-    <updated>2020-02-04T14:14:36.094Z</updated>
+    <title>蓝桥杯2016 B组 第十题</title>
+    <link href="http://yoursite.com/2020/03/21/17/"/>
+    <id>http://yoursite.com/2020/03/21/17/</id>
+    <published>2020-03-21T07:03:00.000Z</published>
+    <updated>2020-03-21T07:45:30.115Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;最大比例&quot;&gt;&lt;a href=&quot;#最大比例&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
     
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/02/04/hello-world/"/>
-    <id>http://yoursite.com/2020/02/04/hello-world/</id>
-    <published>2020-02-04T10:37:53.466Z</published>
-    <updated>2020-02-04T10:37:53.466Z</updated>
+    <title>蓝桥杯2016 B组 第九题</title>
+    <link href="http://yoursite.com/2020/03/20/16/"/>
+    <id>http://yoursite.com/2020/03/20/16/</id>
+    <published>2020-03-20T07:31:00.000Z</published>
+    <updated>2020-03-21T07:51:55.672Z</updated>
     
     <summary type="html">
     
@@ -44,13 +58,513 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h1 id=&quot;交换瓶子&quot;&gt;&lt;a href=&quot;#交换瓶子&quot; class=&quot;headerlink&quot; title=&quot;交换瓶子&quot;&gt;&lt;/a&gt;交换瓶子&lt;/h1&gt;&lt;p&gt;有N个瓶子，编号 1 ~ N，放在架子上。&lt;/p&gt;
+&lt;p&gt;比如有5个瓶子：&lt;br&gt;2 1 3 5
         
       
     
     </summary>
     
     
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2016 B组 第八题</title>
+    <link href="http://yoursite.com/2020/03/19/15/"/>
+    <id>http://yoursite.com/2020/03/19/15/</id>
+    <published>2020-03-19T07:30:00.000Z</published>
+    <updated>2020-03-21T07:51:55.684Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;四平方和&quot;&gt;&lt;a href=&quot;#四平方和&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2016 B组 第七题</title>
+    <link href="http://yoursite.com/2020/03/18/14/"/>
+    <id>http://yoursite.com/2020/03/18/14/</id>
+    <published>2020-03-18T07:28:00.000Z</published>
+    <updated>2020-03-21T07:58:44.828Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;剪邮票&quot;&gt;&lt;a href=&quot;#剪邮票&quot; class=&quot;headerlink&quot; title=&quot;剪邮票&quot;&gt;&lt;/a&gt;剪邮票&lt;/h1&gt;&lt;p&gt;如【图1.jpg】, 有12张连在一起的12生肖的邮票。&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2016 B组 第六题</title>
+    <link href="http://yoursite.com/2020/03/17/13/"/>
+    <id>http://yoursite.com/2020/03/17/13/</id>
+    <published>2020-03-17T07:24:00.000Z</published>
+    <updated>2020-03-21T07:51:55.700Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;方格填数&quot;&gt;&lt;a href=&quot;#方格填数&quot; class=&quot;headerlink&quot; title=&quot;方格填数&quot;&gt;&lt;/a&gt;方格填数&lt;/h1&gt;&lt;p&gt;如下的10个格子&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2016 B组 第三题</title>
+    <link href="http://yoursite.com/2020/03/16/12/"/>
+    <id>http://yoursite.com/2020/03/16/12/</id>
+    <published>2020-03-16T07:20:00.000Z</published>
+    <updated>2020-03-21T07:51:55.693Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;凑算式&quot;&gt;&lt;a href=&quot;#凑算式&quot; class=&quot;headerlink&quot; title=&quot;凑算式&quot;&gt;&lt;/a&gt;凑算式&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/20200111130628383.jpg&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2016 B组 第二题</title>
+    <link href="http://yoursite.com/2020/03/15/11/"/>
+    <id>http://yoursite.com/2020/03/15/11/</id>
+    <published>2020-03-15T07:13:00.000Z</published>
+    <updated>2020-03-21T07:45:25.683Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;生日蜡烛&quot;&gt;&lt;a href=&quot;#生日蜡烛&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2016 B组 第一题</title>
+    <link href="http://yoursite.com/2020/03/14/10/"/>
+    <id>http://yoursite.com/2020/03/14/10/</id>
+    <published>2020-03-14T07:10:00.000Z</published>
+    <updated>2020-03-21T07:45:29.823Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;煤球数目&quot;&gt;&lt;a href=&quot;#煤球数目&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/categories/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2016蓝桥杯真题训练" scheme="http://yoursite.com/tags/2016%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2015 B组 第八题</title>
+    <link href="http://yoursite.com/2020/03/13/9/"/>
+    <id>http://yoursite.com/2020/03/13/9/</id>
+    <published>2020-03-13T07:08:00.000Z</published>
+    <updated>2020-03-21T07:45:29.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;移动距离&quot;&gt;&lt;a href=&quot;#移动距离&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/categories/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/tags/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2015 B组 第七题</title>
+    <link href="http://yoursite.com/2020/03/12/8/"/>
+    <id>http://yoursite.com/2020/03/12/8/</id>
+    <published>2020-03-12T07:05:00.000Z</published>
+    <updated>2020-03-21T07:45:30.203Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;牌型种数&quot;&gt;&lt;a href=&quot;#牌型种数&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/categories/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/tags/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2015 B组 第六题</title>
+    <link href="http://yoursite.com/2020/03/11/7/"/>
+    <id>http://yoursite.com/2020/03/11/7/</id>
+    <published>2020-03-11T06:55:00.000Z</published>
+    <updated>2020-03-21T07:45:30.047Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;加法变乘法&quot;&gt;&lt;a href=&quot;#加法变乘法&quot; class=&quot;headerlink&quot; title=&quot;加法变乘法&quot;&gt;&lt;/a&gt;加法变乘法&lt;/h1&gt;&lt;p&gt;我们都知道：1+2+3+ … + 49 =
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/categories/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/tags/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2015 B组 第三题</title>
+    <link href="http://yoursite.com/2020/03/10/6/"/>
+    <id>http://yoursite.com/2020/03/10/6/</id>
+    <published>2020-03-10T07:02:00.000Z</published>
+    <updated>2020-03-21T07:45:30.072Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;观察下面的加法算式：&lt;/p&gt;
+&lt;p&gt;&amp;emsp;祥 瑞 生 辉&lt;br&gt;&amp;emsp;三 羊 献 瑞&lt;br&gt;三 羊 生 瑞 气
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/categories/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/tags/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2015 B组 第二题</title>
+    <link href="http://yoursite.com/2020/03/09/5/"/>
+    <id>http://yoursite.com/2020/03/09/5/</id>
+    <published>2020-03-09T06:46:00.000Z</published>
+    <updated>2020-03-21T07:45:30.155Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;星系炸弹&quot;&gt;&lt;a href=&quot;#星系炸弹&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/categories/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/tags/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝桥杯2015 B组 第一题</title>
+    <link href="http://yoursite.com/2020/03/08/4/"/>
+    <id>http://yoursite.com/2020/03/08/4/</id>
+    <published>2020-03-08T06:45:00.000Z</published>
+    <updated>2020-03-21T07:45:29.621Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;奖卷数目&quot;&gt;&lt;a href=&quot;#奖卷数目&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/categories/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="2015蓝桥杯真题训练" scheme="http://yoursite.com/tags/2015%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法训练——机器人</title>
+    <link href="http://yoursite.com/2020/03/07/3/"/>
+    <id>http://yoursite.com/2020/03/07/3/</id>
+    <published>2020-03-07T06:28:00.000Z</published>
+    <updated>2020-03-21T07:45:29.927Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;机器人转向行走&quot;&gt;&lt;a href=&quot;#机器人转向行走&quot; class=&quot;headerlink&quot; title=&quot;机器人转向行走&quot;&gt;&lt;/a&gt;机器人转向行走&lt;/h1&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="蓝桥杯基础算法训练" scheme="http://yoursite.com/categories/%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83/"/>
+    
+    
+      <category term="蓝桥杯基础算法训练" scheme="http://yoursite.com/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E8%AE%AD%E7%BB%83/"/>
+    
+      <category term="算法基础训练" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E8%AE%AD%E7%BB%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jupyter上运行Java</title>
+    <link href="http://yoursite.com/2020/03/06/2/"/>
+    <id>http://yoursite.com/2020/03/06/2/</id>
+    <published>2020-03-06T06:18:00.000Z</published>
+    <updated>2020-03-21T07:45:30.098Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;如何在jupyter上运行Java代码&quot;&gt;&lt;a href=&quot;#如何在jupyter上运行Java代码&quot; class=&quot;headerlink&quot; title=&quot;如何在jupyter上运行Java代码&quot;&gt;&lt;/a&gt;如何在jupyter上运行Java代码&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+      <category term="Jupyter" scheme="http://yoursite.com/tags/Jupyter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ 浮点型</title>
+    <link href="http://yoursite.com/2020/03/05/1/"/>
+    <id>http://yoursite.com/2020/03/05/1/</id>
+    <published>2020-03-05T04:15:00.000Z</published>
+    <updated>2020-03-21T07:55:40.518Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;C++浮点型保留有效数字与小数位数&lt;/p&gt;
+&lt;pre class=&quot; language-c&quot;&gt;&lt;code class=&quot;language-c&quot;&gt;&lt;span class=&quot;token macro property&quot;&gt;#&lt;span class=&quot;token directive
+        
+      
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++ STL</title>
+    <link href="http://yoursite.com/2020/03/04/0/"/>
+    <id>http://yoursite.com/2020/03/04/0/</id>
+    <published>2020-03-04T04:15:00.000Z</published>
+    <updated>2020-03-21T07:45:27.867Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;C-STL库一一学习记录&quot;&gt;&lt;a href=&quot;#C-STL库一一学习记录&quot; class=&quot;headerlink&quot; title=&quot;C++ STL库一一学习记录&quot;&gt;&lt;/a&gt;C++ STL库一一学习记录&lt;/h1&gt;&lt;h2 id=&quot;C-STL一一stack-栈&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/categories/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="STL" scheme="http://yoursite.com/tags/STL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老权仔的博客简介</title>
+    <link href="http://yoursite.com/2020/02/04/quanzai/"/>
+    <id>http://yoursite.com/2020/02/04/quanzai/</id>
+    <published>2020-02-04T14:14:36.000Z</published>
+    <updated>2020-03-21T06:38:42.077Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;本博客主要用于个人在学习编程上解决一些遇到的问题，与记录一些学习过程中的记录。&lt;/p&gt;
+&lt;p&gt;欢迎其他同学，朋友一起来交流学习！&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="博客简介" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E7%AE%80%E4%BB%8B/"/>
     
   </entry>
   
