@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-21T07:45:30.115Z</updated>
+  <updated>2020-04-04T16:04:33.119Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PNP的VEM计算</title>
+    <link href="http://yoursite.com/2020/04/04/18/"/>
+    <id>http://yoursite.com/2020/04/04/18/</id>
+    <published>2020-04-04T14:14:36.000Z</published>
+    <updated>2020-04-04T16:04:33.119Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;| 符号|意义|&lt;br&gt;|–|–|–|&lt;br&gt;|$\bigtriangleup$|拉普拉斯算子, 二阶拉普拉斯算子$\bigtriangleup f=\frac { \partial f^{2} }{\partial x^{2}} + \frac { \partial
+        
+      
+    
+    </summary>
+    
+    
+      <category term="VEM" scheme="http://yoursite.com/categories/VEM/"/>
+    
+    
+      <category term="PNP" scheme="http://yoursite.com/tags/PNP/"/>
+    
+      <category term="VEM" scheme="http://yoursite.com/tags/VEM/"/>
+    
+  </entry>
   
   <entry>
     <title>蓝桥杯2016 B组 第十题</title>
