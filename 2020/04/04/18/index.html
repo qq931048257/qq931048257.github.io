@@ -467,7 +467,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    554
+                    556
                 </div>
                 
 
@@ -490,8 +490,126 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>| 符号|意义|<br>|—|—|—|<br>|$\bigtriangleup$|拉普拉斯算子, 二阶拉普拉斯算子$\bigtriangleup f=\frac { \partial f^{2} }{\partial x^{2}} + \frac { \partial f^{2} }{\partial y^{2}}$<br>|$E$|多边形区域<br>|$\partial E$|多边形边界<br>|$\mathbb{R}^n$|$n$维欧氏空间<br>|$\mathcal{P}<em>{k}$|小于等于k的多项式空间<br>|$V</em>{k}$|虚单元空间<br>|$N^V$|多边形 $E$ 顶点(和边)的个数<br>|$\Pi^\nabla$|投影算子, 与问题的双线性有关<br>|$\Pi^0$|多项式空间上的 $L^{2}$ 投影<br>|$\mathcal{D}$|$\mathcal{D}\subset\mathbb{R}^n$<br>|$\varphi(i)$|基函数<br>|$\mathbf{\alpha}$|粗体希腊字母表示多索引, $\alpha=\alpha_{1}+\alpha_{2}$ , 一般使用$\begin{vmatrix}\alpha\end{vmatrix}$表示。<br>如果 $x=(x_1,x_2)$ 则 $x^{\alpha}=x_1^\alpha+x_2^\alpha$<br>|$m_\alpha$|等于 $\begin{vmatrix}\alpha\end{vmatrix}$ 的标度单项式, $m_\alpha=\frac{x-x_{\mathcal{D}}}{h_{\mathcal{D}}}$<br>|$\mathcal{M}<em>k(\mathcal{D})$|度数小于或等于k的缩放单项式的集合, <br>$\mathcal{M}_k(\mathcal{D})=\left{ m_\alpha:0\leq\begin{vmatrix}\alpha\end{vmatrix}\le k \right}$<br>|$x</em>{\mathcal{D}}$|$\mathcal{D}$ 的重心<br>|$h_{\mathcal{D}}$|$\mathcal{D}$ 的直径<br>|$\begin{vmatrix}\mathcal{D}\end{vmatrix}$|$\mathcal{D}$ 的面积</p>
-<p>| 符号|表达|<br>|—|—|—|<br>|$n_k$|$n_k=$ dim $\frac{(k+1)(k+2)}{2}$<br>|$v_k$|$v_k=$ dim $\frac{(k+1)(k+2)(k+3)}{6}$<br>|$v_h$|$v_h$由以下属性定义 ：<br>1、在 $E$ 的每个边 $e$ 上的阶次为 $k$ 的多项式 , $v_{h\mid e}\in\mathcal{P}<em>{k}$ ;<br>2、$v_h$ 在 $\partial E$上是全局连续的 , $v</em>{h\mid \partial E}\in C^0(\partial E)$ <br>3、$\bigtriangleup v_h$ 是E中度数为 $k-2$ 的多项式, $\bigtriangleup v_h\in\mathcal{P}<em>{k-2}$<br>有拉格朗日内插恒等式 ：$v_h = \sum\limits</em>{i=1}^{N^{dof}}dof_i(v_h)\varphi_i,v_h\in V_k(E)$<br>|第一类自由度|$v_h$ 在 $E$ 顶点处的值<br>|第二类自由度|在每条边 $e$ 上, 在 $e$ 上的 $(k+1)$ 点Gauss-Lobatto正交规则的 $k-1$ 个内部点处的 $v_h$ 值<br>|第三类自由度| $\frac{1}{\mid E \mid}\int_Ev_hm_\alpha,$    $\alpha=1,… ,n_{k-2}$<br>$n_{k-2}=$ dim $\mathcal{P}<em>{k-2}(E)$<br>|dim $V</em>{k}(E)$|dim $V_{k}(E)=N^V+N^V(k-1)+n_{k-2}=N^Vk+\frac{(k-1)k}{2}$<br>将自由度从 1 编号到 $N^{dof}  :=$ dim $V_k(E)$<br>|$dof_i(v_h)$|将从 $V_k(E)$ 到 $\mathbb{R}$ 的算子定义为：<br>$dof_i(v_h):=$ $v_h$ 的第 $i$ 个自由度, $i=1,…,N^{dof}$<br>|$dof_i\varphi(j)$|典范基函数 $dof_i\varphi(j)=\delta_{ij},$  $i,j=1,….N^{dof}$ </p>
+                <table>
+<thead>
+<tr>
+<th align="center">符号</th>
+<th align="center">意义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">$\bigtriangleup$</td>
+<td align="center">拉普拉斯算子, 二阶拉普拉斯算子$\bigtriangleup f=\frac { \partial f^{2} }{\partial x^{2}} + \frac { \partial f^{2} }{\partial y^{2}}$</td>
+</tr>
+<tr>
+<td align="center">$E$</td>
+<td align="center">多边形区域</td>
+</tr>
+<tr>
+<td align="center">$\partial E$</td>
+<td align="center">多边形边界</td>
+</tr>
+<tr>
+<td align="center">$\mathbb{R}^n$</td>
+<td align="center">$n$维欧氏空间</td>
+</tr>
+<tr>
+<td align="center">$\mathcal{P}_{k}$</td>
+<td align="center">小于等于k的多项式空间</td>
+</tr>
+<tr>
+<td align="center">$V_{k}$</td>
+<td align="center">虚单元空间</td>
+</tr>
+<tr>
+<td align="center">$N^V$</td>
+<td align="center">多边形 $E$ 顶点(和边)的个数</td>
+</tr>
+<tr>
+<td align="center">$\Pi^\nabla$</td>
+<td align="center">投影算子, 与问题的双线性有关</td>
+</tr>
+<tr>
+<td align="center">$\Pi^0$</td>
+<td align="center">多项式空间上的 $L^{2}$ 投影</td>
+</tr>
+<tr>
+<td align="center">$\mathcal{D}$</td>
+<td align="center">$\mathcal{D}\subset\mathbb{R}^n$</td>
+</tr>
+<tr>
+<td align="center">$\varphi(i)$</td>
+<td align="center">基函数</td>
+</tr>
+<tr>
+<td align="center">$\mathbf{\alpha}$</td>
+<td align="center">粗体希腊字母表示多索引, $\alpha=\alpha_{1}+\alpha_{2}$ , 一般使用$\begin{vmatrix}\alpha\end{vmatrix}$表示。<br>如果 $x=(x_1,x_2)$ 则 $x^{\alpha}=x_1^\alpha+x_2^\alpha$</td>
+</tr>
+<tr>
+<td align="center">$m_\alpha$</td>
+<td align="center">等于 $\begin{vmatrix}\alpha\end{vmatrix}$ 的标度单项式, $m_\alpha=\frac{x-x_{\mathcal{D}}}{h_{\mathcal{D}}}$</td>
+</tr>
+<tr>
+<td align="center">$\mathcal{M}_k(\mathcal{D})$</td>
+<td align="center">度数小于或等于k的缩放单项式的集合, <br>$\mathcal{M}_k(\mathcal{D})=$$\left{m_\alpha:0\leq\begin{vmatrix}\alpha\end{vmatrix}\le k \right}$</td>
+</tr>
+<tr>
+<td align="center">$x_{\mathcal{D}}$</td>
+<td align="center">$\mathcal{D}$ 的重心</td>
+</tr>
+<tr>
+<td align="center">$h_{\mathcal{D}}$</td>
+<td align="center">$\mathcal{D}$ 的直径</td>
+</tr>
+<tr>
+<td align="center">$\begin{vmatrix}\mathcal{D}\end{vmatrix}$</td>
+<td align="center">$\mathcal{D}$ 的面积</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">符号</th>
+<th align="center">表达</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">$n_k$</td>
+<td align="center">$n_k=$ dim $\frac{(k+1)(k+2)}{2}$</td>
+</tr>
+<tr>
+<td align="center">$v_k$</td>
+<td align="center">$v_k=$ dim $\frac{(k+1)(k+2)(k+3)}{6}$</td>
+</tr>
+<tr>
+<td align="center">$v_h$</td>
+<td align="center">$v_h$由以下属性定义 ：<br>1、在 $E$ 的每个边 $e$ 上的阶次为 $k$ 的多项式 , $v_{h\mid e}\in\mathcal{P}<em>{k}$ ;<br>2、$v_h$ 在 $\partial E$上是全局连续的 , $v</em>{h\mid \partial E}\in C^0(\partial E)$ <br>3、$\bigtriangleup v_h$ 是E中度数为 $k-2$ 的多项式, $\bigtriangleup v_h\in\mathcal{P}<em>{k-2}$<br>有拉格朗日内插恒等式 ：$v_h = \sum\limits</em>{i=1}^{N^{dof}}dof_i(v_h)\varphi_i,v_h\in V_k(E)$</td>
+</tr>
+<tr>
+<td align="center">第一类自由度</td>
+<td align="center">$v_h$ 在 $E$ 顶点处的值</td>
+</tr>
+<tr>
+<td align="center">第二类自由度</td>
+<td align="center">在每条边 $e$ 上, 在 $e$ 上的 $(k+1)$ 点Gauss-Lobatto正交规则的 $k-1$ 个内部点处的 $v_h$ 值</td>
+</tr>
+<tr>
+<td align="center">第三类自由度</td>
+<td align="center">$\frac{1}{\mid E \mid}\int_Ev_hm_\alpha,$    $\alpha=1,… ,n_{k-2}$<br>$n_{k-2}=$ dim $\mathcal{P}_{k-2}(E)$</td>
+</tr>
+<tr>
+<td align="center">dim $V_{k}(E)$</td>
+<td align="center">dim $V_{k}(E)=N^V+N^V(k-1)+n_{k-2}=N^Vk+\frac{(k-1)k}{2}$<br>将自由度从 1 编号到 $N^{dof}  :=$ dim $V_k(E)$</td>
+</tr>
+<tr>
+<td align="center">$dof_i(v_h)$</td>
+<td align="center">将从 $V_k(E)$ 到 $\mathbb{R}$ 的算子定义为：<br>$dof_i(v_h):=$ $v_h$ 的第 $i$ 个自由度, $i=1,…,N^{dof}$</td>
+</tr>
+<tr>
+<td align="center">$dof_i\varphi(j)$</td>
+<td align="center">典范基函数 $dof_i\varphi(j)=\delta_{ij},$  $i,j=1,….N^{dof}$</td>
+</tr>
+</tbody></table>
 
             </div>
             <hr/>
@@ -618,7 +736,16 @@
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            | 符号|意义||—|—|—||$\bigtriangleup$|拉普拉斯算子, 二阶拉普拉斯算子$\bigtriangleup f=\frac { \partial f^{2} }{\partial x^{2}} + \frac { \p
+                            
+
+
+符号
+意义
+
+
+
+$\bigtriangleup$
+拉普拉斯算子, 二阶拉普拉斯算子$\bigtriangleup f=\frac { \partial f^{2} }{\partial x^{2}} + \frac { \parti
                         
                     </div>
                     <div class="publish-info">
@@ -837,6 +964,13 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
 
 </main>
 
+
+<script src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$'], ['\(', '\)']]}
+    });
+</script>
 
 
     <footer class="page-footer bg-color">

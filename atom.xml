@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-04T16:11:59.579Z</updated>
+  <updated>2020-04-04T16:34:47.208Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/04/04/18/"/>
     <id>http://yoursite.com/2020/04/04/18/</id>
     <published>2020-04-04T14:14:36.000Z</published>
-    <updated>2020-04-04T16:11:59.579Z</updated>
+    <updated>2020-04-04T16:34:47.208Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,15 @@
       
         
         
-          &lt;p&gt;| 符号|意义|&lt;br&gt;|—|—|—|&lt;br&gt;|$\bigtriangleup$|拉普拉斯算子, 二阶拉普拉斯算子$\bigtriangleup f=\frac { \partial f^{2} }{\partial x^{2}} + \frac { \partial
+          &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;符号&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;意义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td
         
       
     
