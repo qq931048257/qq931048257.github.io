@@ -639,33 +639,33 @@ using namespace std<span class="token punctuation">;</span>
     </div>
 
     
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/qq931048257/qq931048257.github.io/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/qq931048257/qq931048257.github.io/css/my-gitalk.css">
 
-    
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/qq931048257/qq931048257.github.io/libs/gitment/gitment-default.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/qq931048257/qq931048257.github.io/css/gitment.css">
-
-<div class="gitment-card card" data-aos="fade-up">
+<div class="card gitalk-card" data-aos="fade-up">
     <div class="comment_headling" style="font-size: 20px; font-weight: 700; position: relative; left: 20px; top: 15px; padding-bottom: 5px;">
         <i class="fas fa-comments fa-fw" aria-hidden="true"></i>
         <span>评论</span>
     </div>
-    <div id="gitment-content" class="card-content"></div>
+    <div id="gitalk-container" class="card-content"></div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/gh/qq931048257/qq931048257.github.io/libs/gitment/gitment.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/qq931048257/qq931048257.github.io/libs/gitalk/gitalk.min.js"></script>
 <script>
-var gitment = new Gitment({
-    id: 'Mon Apr 13 2020 18:11:00 GMT+0800',
-    owner: 'qq931048257',
-    repo: 'qq931048257.github.io',
-    oauth: {
-        client_id: '2f561bc8877ccb32cfab',
-        client_secret: 'aa8a847dbeab49096f47d5ff8442e6286249a830'
-    }
-});
+    let gitalk = new Gitalk({
+        clientID: '2f561bc8877ccb32cfab',
+        clientSecret: 'aa8a847dbeab49096f47d5ff8442e6286249a830',
+        repo: 'qq931048257.github.io',
+        owner: 'qq931048257',
+        admin: "qq931048257",
+        id: '2020-04-13T18-11-00',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
 
-gitment.render('gitment-content');
+    gitalk.render('gitalk-container');
 </script>
+    
+
     
 
     
