@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-13T10:20:02.756Z</updated>
+  <updated>2020-04-16T12:29:24.173Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DBFace人脸检测</title>
+    <link href="http://yoursite.com/2020/04/16/dbface/"/>
+    <id>http://yoursite.com/2020/04/16/dbface/</id>
+    <published>2020-04-16T12:14:00.000Z</published>
+    <updated>2020-04-16T12:29:24.173Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;DBFace&quot;&gt;&lt;a href=&quot;#DBFace&quot; class=&quot;headerlink&quot; title=&quot;DBFace&quot;&gt;&lt;/a&gt;DBFace&lt;/h1&gt;&lt;p&gt;DBFace is a real-time, single-stage detector for face
+        
+      
+    
+    </summary>
+    
+    
+      <category term="人脸检测" scheme="http://yoursite.com/categories/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/"/>
+    
+    
+      <category term="DBFace" scheme="http://yoursite.com/tags/DBFace/"/>
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+      <category term="人脸检测" scheme="http://yoursite.com/tags/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>蓝桥杯2013 B组 第十题</title>
@@ -552,35 +583,6 @@
         
         
           &lt;h1 id=&quot;切面条&quot;&gt;&lt;a href=&quot;#切面条&quot; class=&quot;headerlink&quot; title=&quot;切面条&quot;&gt;&lt;/a&gt;切面条&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="2014蓝桥杯真题训练" scheme="http://yoursite.com/categories/2014%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
-    
-    
-      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
-    
-      <category term="2014蓝桥杯真题训练" scheme="http://yoursite.com/tags/2014%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝桥杯2014 B组 第一题</title>
-    <link href="http://yoursite.com/2020/04/13/2014-1/"/>
-    <id>http://yoursite.com/2020/04/13/2014-1/</id>
-    <published>2020-04-13T08:17:00.000Z</published>
-    <updated>2020-04-13T08:19:56.356Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;啤酒和饮料&quot;&gt;&lt;a href=&quot;#啤酒和饮料&quot; class=&quot;headerlink&quot; title=&quot;啤酒和饮料&quot;&gt;&lt;/a&gt;啤酒和饮料&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
         
       
     
