@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-16T12:29:24.173Z</updated>
+  <updated>2020-04-20T10:25:56.731Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小型学院工资管理系统</title>
+    <link href="http://yoursite.com/2020/04/20/xiao-xing-gong-zi/"/>
+    <id>http://yoursite.com/2020/04/20/xiao-xing-gong-zi/</id>
+    <published>2020-04-20T09:25:00.000Z</published>
+    <updated>2020-04-20T10:25:56.731Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;小型学院工资管理系统&quot;&gt;&lt;a href=&quot;#小型学院工资管理系统&quot; class=&quot;headerlink&quot; title=&quot;小型学院工资管理系统&quot;&gt;&lt;/a&gt;小型学院工资管理系统&lt;/h1&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="MFC" scheme="http://yoursite.com/categories/MFC/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="MFC" scheme="http://yoursite.com/tags/MFC/"/>
+    
+  </entry>
   
   <entry>
     <title>DBFace人脸检测</title>
@@ -554,35 +583,6 @@
         
         
           &lt;h1 id=&quot;李白打酒&quot;&gt;&lt;a href=&quot;#李白打酒&quot; class=&quot;headerlink&quot; title=&quot;李白打酒&quot;&gt;&lt;/a&gt;李白打酒&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="2014蓝桥杯真题训练" scheme="http://yoursite.com/categories/2014%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
-    
-    
-      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
-    
-      <category term="2014蓝桥杯真题训练" scheme="http://yoursite.com/tags/2014%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝桥杯2014 B组 第二题</title>
-    <link href="http://yoursite.com/2020/04/13/2014-2/"/>
-    <id>http://yoursite.com/2020/04/13/2014-2/</id>
-    <published>2020-04-13T08:20:00.000Z</published>
-    <updated>2020-04-13T08:21:17.623Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;切面条&quot;&gt;&lt;a href=&quot;#切面条&quot; class=&quot;headerlink&quot; title=&quot;切面条&quot;&gt;&lt;/a&gt;切面条&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
         
       
     
