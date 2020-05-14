@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-24T08:07:03.904Z</updated>
+  <updated>2020-05-13T12:45:58.173Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>max sum(最大总和)</title>
+    <link href="http://yoursite.com/2020/05/13/dp1/"/>
+    <id>http://yoursite.com/2020/05/13/dp1/</id>
+    <published>2020-05-13T12:10:00.000Z</published>
+    <updated>2020-05-13T12:45:58.173Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;最大总和&quot;&gt;&lt;a href=&quot;#最大总和&quot; class=&quot;headerlink&quot; title=&quot;最大总和&quot;&gt;&lt;/a&gt;最大总和&lt;/h1&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="dp" scheme="http://yoursite.com/categories/dp/"/>
+    
+    
+      <category term="dp" scheme="http://yoursite.com/tags/dp/"/>
+    
+  </entry>
   
   <entry>
     <title>小型学院工资管理系统</title>
@@ -554,35 +581,6 @@
         
         
           &lt;h1 id=&quot;史丰收速算&quot;&gt;&lt;a href=&quot;#史丰收速算&quot; class=&quot;headerlink&quot; title=&quot;史丰收速算&quot;&gt;&lt;/a&gt;史丰收速算&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="2014蓝桥杯真题训练" scheme="http://yoursite.com/categories/2014%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
-    
-    
-      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
-    
-      <category term="2014蓝桥杯真题训练" scheme="http://yoursite.com/tags/2014%E8%93%9D%E6%A1%A5%E6%9D%AF%E7%9C%9F%E9%A2%98%E8%AE%AD%E7%BB%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝桥杯2014 B组 第三题</title>
-    <link href="http://yoursite.com/2020/04/13/2014-3/"/>
-    <id>http://yoursite.com/2020/04/13/2014-3/</id>
-    <published>2020-04-13T08:21:00.000Z</published>
-    <updated>2020-04-13T08:23:03.799Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;李白打酒&quot;&gt;&lt;a href=&quot;#李白打酒&quot; class=&quot;headerlink&quot; title=&quot;李白打酒&quot;&gt;&lt;/a&gt;李白打酒&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
         
       
     
